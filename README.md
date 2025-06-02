@@ -1,5 +1,5 @@
 # Bullring Finance Payment Gateway for WooCommerce
-**Bullring Offical link:** [https://www.bullring.finance/](https://www.bullring.finance/)  
+**Bullring Finance Offical Website:** [https://www.bullring.finance/](https://www.bullring.finance/)  
 **Contributors:** Sylvanus P. Ezekiel  
 **Tags:** payment gateway, woocommerce, bullring, finance, crypto payment, crypto gateway, wordpress plugin 
 **Requires at least:** 6.4  
@@ -39,7 +39,7 @@ The **Bullring Finance Payment Gateway for WooCommerce** enables your store to a
 - WordPress 6.4 or higher  
 - WooCommerce 9.5 or higher  
 - PHP 7.4 or higher  
-- A [Bullring Finance merchant account](#)
+- A [Bullring Finance merchant account](https://www.bullring.finance/api-integrations)
 
 ---
 
