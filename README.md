@@ -93,21 +93,6 @@ The **Bullring Finance Payment Gateway for WooCommerce** enables your store to a
 This plugin is open-source and available on GitHub:  
 👉 [https://github.com/iamspezekiel/bullring-finance-woocommerce](https://github.com/iamspezekiel/bullring-finance-woocommerce)
 
-### 📁 File Structure
-bullring-woocommerce/
-├── assets/
-│ └── images/
-│ └── bullring-logo.png
-├── languages/
-│ ├── bullring-wc.pot
-│ ├── bullring-wc-en_US.po
-│ └── bullring-wc-en_US.mo
-├── .gitignore
-├── README.md
-├── bullring-woocommerce.php
-├── readme.txt
-└── uninstall.php
-
 
 ### 🔌 Hooks & Filters
 
