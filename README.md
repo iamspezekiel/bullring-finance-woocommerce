@@ -1,8 +1,7 @@
 # Bullring Finance Payment Gateway for WooCommerce
-
+**Bullring Offical link:** [https://www.bullring.finance/](https://www.bullring.finance/)  
 **Contributors:** Sylvanus P. Ezekiel  
-**Donate link:** [https://iamspezekiel.com.ng/donate](https://iamspezekiel.com.ng/donate)  
-**Tags:** payment gateway, woocommerce, bullring, finance  
+**Tags:** payment gateway, woocommerce, bullring, finance, crypto payment, crypto gateway, wordpress plugin 
 **Requires at least:** 6.4  
 **Tested up to:** 6.5  
 **Requires PHP:** 7.4  
